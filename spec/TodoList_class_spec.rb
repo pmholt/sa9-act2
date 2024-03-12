@@ -1,3 +1,5 @@
+require 'TodoList_class'
+
 RSpec.describe TodoList do
     describe "#add" do
       it "adds a todo to the list" do

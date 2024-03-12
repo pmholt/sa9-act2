@@ -1,3 +1,5 @@
+require 'testing_user_class'
+
 RSpec.describe User do
     describe "#log_in" do
       it "logs the user in" do

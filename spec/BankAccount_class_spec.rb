@@ -1,4 +1,4 @@
-require_relative "BankAccount_class"
+require 'BankAccount_class'
 
 RSpec.describe BankAccount do
   describe "#deposit" do

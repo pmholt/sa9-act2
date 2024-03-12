@@ -1,3 +1,5 @@
+require 'StringWrapper_class'
+
 RSpec.describe StringWrapper do
     describe "#reverse" do
       it "reverses the string" do
